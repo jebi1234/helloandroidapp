@@ -32,8 +32,7 @@
 //        radioGroup = findViewById(R.id.getradiobuttonvalue);
 //        CheckB = findViewById(R.id.b1);
 //        builder = new AlertDialog.Builder(this);
-  jnfgjkfng
-gjnhj
+
 //        CheckB.setOnClickListener(new View.OnClickListenernfkghnjk() {
 //            @Override
 //            public void onClick(View v) {
